@@ -1,0 +1,1 @@
+# CodeClauseInternship_Customer_Segmentation_with_K-Means_Clustering
